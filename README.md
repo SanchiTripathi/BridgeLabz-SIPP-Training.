@@ -1,7 +1,5 @@
 # BridgeLabz-SIPP-Training.
 
-# BridgeLabz SIPP Training Repository
-
 This repository contains all the assignments, exercises, and practice programs completed during the *BridgeLabz SIPP Training Program*.
 
 ---

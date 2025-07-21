@@ -23,9 +23,6 @@ This repository contains all the assignments, exercises, and practice programs c
   Covers *Data Structures and Algorithms* including Linked Lists, Stacks, Queues, HashMap, Sorting, Searching, and Time Complexity.  
   *Latest Update:* Searching Algorithm Practice Problems (Last Week)
 
-- *Workshop* (Updated: 3 Weeks Ago)  
-  Contains *workshop exercises* and practical coding challenges from BridgeLabz sessions.
-
 ---
 
 ## ✅ Concepts Covered by Branch
@@ -54,10 +51,10 @@ This repository contains all the assignments, exercises, and practice programs c
 ---
 
 ## 📌 Assignments and File Links
-- [Core Java Programs](./Core_Java) (Last Updated: Last Month)
-- [OOPs Concepts](./OOPs) (Last Updated: 3 Weeks Ago)
-- [DSA Assignments](./DSA) (Last Updated: Last Week)
-- [Workshop Files](./Workshop) (Last Updated: 3 Weeks Ago)
+- [Core Java Programs](https://github.com/SanchiTripathi/BridgeLabz-SIPP-Training./tree/Core_Java) (Last Updated: Last Month)
+- [OOPs Concepts](https://github.com/SanchiTripathi/BridgeLabz-SIPP-Training./tree/OOPS) (Last Updated: 3 Weeks Ago)
+- [DSA Assignments](https://github.com/SanchiTripathi/BridgeLabz-SIPP-Training./tree/DSA) (Last Updated: Last Week)
+
 
 ---
 
